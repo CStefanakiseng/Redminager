@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Redminager.Cli", "Redminager.Cli\Redminager.Cli.csproj", "{99C94A9F-AD80-4E7E-82E9-66EA99A84878}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Redminager.Cli.Tests", "Redminager.Cli.Tests\Redminager.Cli.Tests.csproj", "{7996F15F-E725-4A76-9CD9-F2B26D9B3421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C94A9F-AD80-4E7E-82E9-66EA99A84878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C94A9F-AD80-4E7E-82E9-66EA99A84878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C94A9F-AD80-4E7E-82E9-66EA99A84878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C94A9F-AD80-4E7E-82E9-66EA99A84878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7996F15F-E725-4A76-9CD9-F2B26D9B3421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7996F15F-E725-4A76-9CD9-F2B26D9B3421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7996F15F-E725-4A76-9CD9-F2B26D9B3421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7996F15F-E725-4A76-9CD9-F2B26D9B3421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {936F8B6A-EA1D-4691-95F1-F13BC18862A1}
+	EndGlobalSection
+EndGlobal
